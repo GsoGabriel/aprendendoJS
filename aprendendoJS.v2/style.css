@@ -1,0 +1,31 @@
+div{
+	margin: 10px;
+	width: 150px;
+}
+#d1{
+	color: white;
+	
+	padding: 5px;
+	width: 150px;
+}
+#d2{
+	color: white;
+	
+	padding: 5px;
+	width: 150px;
+}
+#d3{
+	
+	padding: 5px;
+	width: 150px;
+}
+
+.cd1{
+	background-color: pink;
+}
+.cd2{
+	background-color: #123456;
+}
+.cd3{
+	background-color: #654321;
+}

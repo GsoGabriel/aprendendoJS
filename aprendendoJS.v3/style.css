@@ -1,0 +1,14 @@
+canvas{
+	width: 200px;
+	height: 500px;
+	border: 1px solid #d3d3d3;
+}
+.cd1{
+	background-color: pink;
+}
+.cd2{
+	background-color: #123456;
+}
+.cd3{
+	background-color: #654321;
+}

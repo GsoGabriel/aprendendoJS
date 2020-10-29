@@ -1,0 +1,21 @@
+div{
+	margin: 10px;
+	width: 150px;
+}
+.d1{
+	color: white;
+	background-color: blue;
+	padding: 5px;
+	width: 150px;
+}
+.d2{
+	color: white;
+	background-color: blue;
+	padding: 5px;
+	width: 150px;
+}
+.d3{
+	background-color: pink;
+	padding: 5px;
+	width: 150px;
+}
